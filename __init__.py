@@ -26,7 +26,7 @@ __author__ = supybot.Author('Andrew Smillie', 'Smilers',
 __contributors__ = {}
 
 # This is a url where the most recent plugin package can be downloaded.
-__url__ = '' # 'http://supybot.com/Members/yourname/GeekSoc/download'
+__url__ = 'https://github.com/smillie/supybot-geeksoc' # 'http://supybot.com/Members/yourname/GeekSoc/download'
 
 import config
 import plugin
