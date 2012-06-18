@@ -1,0 +1,1 @@
+Retrieves informations about users and groups from the GeekSoc Account System.
